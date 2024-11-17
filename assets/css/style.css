@@ -1,9 +1,12 @@
 .nav class {
-background-color: rgb(182, 209, 207);
-padding: auto;
+    background-color: rgb(182, 209, 207);
+    padding: auto;
+}
+
+#home {
+    background: linear-gradient(70deg, #0d6efd, #088cba);
 }
 
 .footer class {
-background-color: rgb(24, 128, 130);
+    background-color: rgb(24, 128, 130);
 }
-
